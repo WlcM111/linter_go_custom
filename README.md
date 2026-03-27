@@ -1,4 +1,4 @@
-# logcheck (linter) - Тестовое задание Selectel
+# logcheck (linter) - Плагин совместимый с golangci-lint
 
 `logcheck` — линтер для Go, совместимый с `golangci-lint`, который проверяет текст лог-сообщений для `log/slog` и `go.uber.org/zap`.
 
